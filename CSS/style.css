@@ -1,0 +1,15 @@
+/*NAVBAR*/
+  #navbar-first{width: 100%; display:block;}
+  .sidebar { position: fixed; top: 57px; bottom: 0; left: 0; z-index: 1000; padding: 20px; overflow-x: hidden; overflow-y: auto; border-right: 1px solid #eee; }
+  .sidebar { padding-left: 0; padding-right: 0; }
+  .sidebar .nav { margin-bottom: 20px; }
+  .sidebar .nav-item { width: 100%; }
+  .sidebar .nav-item + .nav-item { margin-left: 0; }
+  .sidebar .nav-link { border-radius: 0; }
+
+
+  .distanza-basso { margin-bottom: 20px; text-align: center;}
+  .centra { text-align: center; }
+  .piccolo {font-size: 35px;}
+
+  .icona-previ{font-size:55px;  margin-top: 20px; margin-bottom: 20px;}

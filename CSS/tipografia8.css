@@ -1,0 +1,27 @@
+/*TIPOGRAFIA*/
+  
+  @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+  .titolo{ font-family: 'Nunito', cursive; margin-top: 15px; }
+  .sottotitolo{ font-family: 'Nunito', sans-serif; margin-top: 15px; text-align: center;}
+  .dati { font-family: 'Nunito', sans-serif; font-size:50px; }
+  .dato-piccolo { color: grey;}
+  .unita-misura { font-size: 20px;}
+  /* CARD nella HOMEPAGE*/
+  .titolo-card {font-size: 35px; font-family: 'Nunito', sans-serif; text-align: center; margin-bottom:0px}
+  .sottotitolo-card {font-size: 20px; font-family: 'Nunito', cursive; text-align: center;}
+  .valore-tabella {font-size: 20px; font-family: 'Nunito', sans-serif; text-align: center;}
+  .valore-card {font-size: 35px; font-family: 'Nunito', sans-serif; text-align: center;}
+  .linkAttivo { background-color:white; color:black; }
+   .linkNavbar
+   {
+     background-color: #4e73df;
+     color:white;
+     font-size:.85rem;
+    }
+    .linkNavbar:hover
+    {
+      border-top: 1px solid white;
+      border-bottom: 1px solid white;
+	}
+  body {font-family: 'Nunito', sans-serif;}
